@@ -1,0 +1,37 @@
+* {
+  margin: 0px;
+}
+
+.container {
+  background-image: linear-gradient(#fa7257, #fc63a7);
+  min-height: 100vh;
+  text-align: center;
+  padding-top: 80px;
+}
+
+button {
+  height: 40px;
+  width: 100px;
+  background-color: #ffffff;
+  color: #dd1264;
+  border-radius: 12px;
+  border: 0px;
+  font-family: 'bree serif';
+  text-align: center;
+}
+
+.head {
+  color: #ffffff;
+}
+
+.first {
+  color: #000000;
+}
+
+.last {
+  color: #000000;
+}
+
+.firstN {
+  background-color: #fddddb;
+}
